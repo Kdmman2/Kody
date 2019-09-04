@@ -1,0 +1,53 @@
+body {
+  background-color: lightblue;
+}
+nav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: lightblue;
+}
+
+nav{
+  float: center;
+}
+
+nav{
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 1.25em;
+  font-weight: bold;
+}
+nav:hover {
+  background-color: #111;
+}
+
+h1 {
+  background-color: black;
+  color: red;
+  text-align: center;
+}
+h2 {
+  background-color: navy;
+  color: red;
+  text-align: center;
+}
+#ESPN {
+  background-color: navy;
+  color: orange;
+  text-align: center;
+}
+.Website{
+  background-color: navy;
+  color: white;
+  text-align: center;
+}
+p {
+  text-align: center;
+}
+
+}
